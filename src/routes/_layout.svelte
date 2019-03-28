@@ -1,5 +1,5 @@
 <main>
-	<p><a href="/home">/home</a></p>
+	<p><a href="/">home</a></p>
 	<p><a href="/does-work">/does-work</a></p>
 	<p><a href="/does-not-work">/does-not-work</a></p>
 	<slot></slot>
